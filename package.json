@@ -1,0 +1,22 @@
+{
+  "name": "demo_tailwind_ui",
+  "version": "1.0.0",
+  "description": "See https://tailwindcss.com/",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "tailwindcss": "^1.5.2"
+  },
+  "devDependencies": {
+    "alpinejs": "^2.5.0",
+    "autoprefixer": "^9.8.5",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-postcss": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
