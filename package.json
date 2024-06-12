@@ -9,8 +9,8 @@
   "devDependencies": {
     "alpinejs": "^2.5.0",
     "autoprefixer": "^9.8.5",
-    "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
     "gulp-postcss": "^8.0.0"
   },
   "scripts": {
