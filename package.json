@@ -4,14 +4,14 @@
   "description": "See https://tailwindcss.com/",
   "main": "gulpfile.js",
   "dependencies": {
-    "tailwindcss": "^1.5.2"
+    "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
     "alpinejs": "^2.5.0",
-    "autoprefixer": "^9.8.5",
+    "autoprefixer": "^10.4.22",
     "gulp": "^5.0.0",
     "gulp-cli": "^3.0.0",
-    "gulp-postcss": "^8.0.0"
+    "gulp-postcss": "^10.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
